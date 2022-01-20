@@ -9,3 +9,4 @@ This script will read the version of the Helm server you are running. It will th
 Download the file to somewhere in your path. Any time you would call `helm ...`, call `h ...` instead.
 
 `curl -OL https://raw.githubusercontent.com/jakepearson/h/master/h && chmod +x h`
+test 
